@@ -1,0 +1,12 @@
+* {box--sizing:border-box;}
+
+
+body{
+    max-width: 1200px;
+    margin:auto;
+    padding: 40px;
+    color:#7f888f;
+    font-style: arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+}
